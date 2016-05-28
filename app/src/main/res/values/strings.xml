@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kaz Grammar</string>
+    <string name="hello_world">Морфологиялық талдау</string>
+    <string name="fonet_greeting">Фонетикалық талдау</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fonet">Фонетика</string>
+    <string name="title_activity_about">Программа туралы</string>
+    <string name="about_text">Қазақ мәтініне фонетикалық және морфологиялық талдау жасау қосымшасы\n\n
+        Жасаушы: Айбол Максотов\n email: aibol93@gmail.com\n Версиясы 1.1</string>
+    <string name="about">Жоба туралы</string>
+    <string name="fonet">Фонетика</string>
+    <string name="morf">Морфология</string>
+    <string name="word">Сөз немесе сөйлем</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5781398705226877/9660497144</string>
+
+</resources>
