@@ -13,6 +13,8 @@ public class Constants {
     public static final Character[] dauyztylar = {'а', 'о', 'ұ', 'ы', 'э','ә', 'і', 'ү', 'ө', 'е', 'и'};
     public static final ArrayList<Character> DAUYSTY = new ArrayList<Character>();
 
+    public static final String FIREBASE_URL = "https://kazgrammar.firebaseio.com/";
+
     public ArrayList<Character> getDauyssyz(){
         DAUYSSYZ.addAll(Arrays.asList(dauyssyzdar));
         return DAUYSSYZ;
