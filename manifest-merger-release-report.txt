@@ -61,7 +61,7 @@ MERGED from com.android.support:support-v4:22.2.0:22:5
 		ADDED from AndroidManifest.xml:14:9
 	android:theme
 		ADDED from AndroidManifest.xml:16:9
-activity#fit.enu.kz.kazakhtextparser.MainActivity
+activity#fit.enu.kz.kazakhtextparser.activity.MainActivity
 ADDED from AndroidManifest.xml:17:9
 	android:windowSoftInputMode
 		ADDED from AndroidManifest.xml:21:13
