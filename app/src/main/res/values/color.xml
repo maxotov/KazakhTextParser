@@ -27,9 +27,6 @@
         <item>@color/seawave</item>
         <item>@color/white</item>
     </integer-array>
-    <color name="ColorPrimary">#FF0099CC</color>
-    <color name="ColorPrimaryDark">#c31c13</color>
-    <color name="tabsScrollColor">#8a140e</color>
 
     <color name="ColorPrimary2">#00897B</color>
     <color name="ColorPrimaryDark2">#00695C</color>
