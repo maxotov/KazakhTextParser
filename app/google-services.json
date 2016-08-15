@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "522200723899",
+    "firebase_url": "https://kazgrammar.firebaseio.com",
+    "project_id": "kazgrammar",
+    "storage_bucket": "kazgrammar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522200723899:android:ee920208670a0bcf",
+        "android_client_info": {
+          "package_name": "fit.enu.kz.kazakhtextparser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522200723899-ertrv7ih0dhie75mp8bad9r6lekgr5jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnO-f16TAZGwlw40c7ufCaTxl0PmVbchU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
